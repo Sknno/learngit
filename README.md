@@ -1,6 +1,3 @@
 # learngit
 learn git
-bitch:::vv
-bitch:::ccc
-xxx
-iii
+全程使用手机提交v1.0

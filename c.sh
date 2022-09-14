@@ -1,5 +1,1 @@
-speak english
-hello china
-i
-i
-iii
+echo "this test"
